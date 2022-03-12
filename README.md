@@ -12,11 +12,9 @@ sudo apt update
 sudo apt install Mizuria
 ```
 
-**14 y/o & French - I love viruses and malwares, i remasterise the viruses.**
-
 「💻」 Young French developer
 
-「🔰」 Go to my **[Discord Server](https://discord.gg/9mrU6Jc3TJ)**
+「🔰」 Go to my **[Discord Server](https://discord.gg/838Kcba5Sc)**
 
 「🎈」 *Just coding for the fun...*
 
