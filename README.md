@@ -16,3 +16,9 @@
 |  1  |      TikTok Shares & Views Hack     |   ❌   |     --No Link--    |
 |  2  |      Name & First Name Dox Tracker  |   ❌   |     --No Link--    |
 |  3  |      Discord Image Grabber          |   ❌   |     --No Link--    |
+
+
+
+### Contact
+
+If you want to get in touch with me, here is where you will find me: https://ademo.carrd.co/
