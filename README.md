@@ -1,17 +1,13 @@
 ![alt text](https://github.com/AdemoYT/AdemoYT/blob/main/Sans%20titre.jpg?raw=true)
 
 
-```
-「💻」 Young French developer
-```
 
-```
-「🎍」 Go to my **[Discord Server]()**
-```
+-  「💻」 Young French developer
 
-```
-「🎈」 *Just coding for the fun...*
-```
+-  「🎍」 Go to my **[Discord Server]()**
+
+-  「🎈」 *Just coding for the fun...*
+
 
 
 
